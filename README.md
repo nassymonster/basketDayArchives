@@ -30,11 +30,11 @@ procentuálním vývojem ceny. Pro výpočet procentuálního vývoje ceny je po
 
 ### Soubory PNG
 
-**[plotPercentagePriceChange.png](results/plotPercentagePriceChange.png)**: Graf zobrazující procentuální vývoj ceny za celé období.
+**[plotPercentagePriceChange.png](results/charts/plotPercentagePriceChange.png)**: Graf zobrazující procentuální vývoj ceny za celé období.
 
-**plotPercentagePriceChange_xxxx.png**: Grafy s procentuálním vývojem ceny podle jednotlivých let.
+**[plotPercentagePriceChange_xxxx.png](results/charts/)**: Grafy s procentuálním vývojem ceny podle jednotlivých let.
 
-**[plotAveragePercentageDailyMovement.png](results/plotAveragePercentageDailyMovement.png)**: Graf znázorňující průměrnou hodnotu denního pohybu za každý rok.
+**[plotAveragePercentageDailyMovement.png](results/charts/plotAveragePercentageDailyMovement.png)**: Graf znázorňující průměrnou hodnotu denního pohybu za každý rok.
  
 ## Kroky pro spuštění Python kódu
 1. Vytvoření virtuálního prostředí (venv):
